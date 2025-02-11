@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kingCoders60
-- 👀 I’m interested in WEB DEVLOPMENT
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in BACKEND DEVLOPMENT🔥🔥
+- 🌱 I’m currently learning DSA+BACKEND DEV
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ->spworld30@gmail.com
 
