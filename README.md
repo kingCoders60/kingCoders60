@@ -1,7 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @kingCoders60<br>- 👀 I’m interested in BACKEND DEVLOPMENT🔥🔥<br>- 🌱 I’m currently learning DSA+BACKEND DEV<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ->spworld30@gmail.com<br>-I am also addicted to Problem solving..<br><br><br><!---<br>kingCoders60/kingCoders60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>---><br>
-
-
+- 👋 Hi, I’m @kingCoders60<br>- 👀 I’m interested in BACKEND DEVLOPMENT🔥🔥<br>- 🌱 I’m currently learning DSA+BACKEND DEV<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ->spworld30@gmail.com<br>-I am also addicted to Problem solving..
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivampatra49) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spworld30@gmail.com) 
 
