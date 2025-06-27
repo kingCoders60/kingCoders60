@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @kingCoders60<br>- 👀 I’m interested in BACKEND DEVLOPMENT🔥🔥<br>- 🌱 I’m currently learning DSA+BACKEND DEV- 📫 How to reach me ->spworld30@gmail.com<br>-I am also addicted to Problem solving..<br>Currently I have 800+ problem solved across all plartforms</br>
+- 👋 Hi, I’m Shivam Patra<br>- 👀 I’m interested in BACKEND DEVLOPMENT🔥🔥<br>- 🌱 I’m currently learning DSA+BACKEND DEV- 📫 How to reach me ->spworld30@gmail.com<br>-I am also addicted to Problem solving..<br>Currently I have 800+ problem solved across all plartforms</br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivampatra49) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spworld30@gmail.com) 
 
@@ -18,5 +18,3 @@
 [![](https://visitcount.itsvg.in/api?id=kingCoders60&icon=0&color=0)](https://visitcount.itsvg.in)
 ![snake gif](https://github.com/kingCoders60/kingCoders60/blob/output/github-snake-dark.svg)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
