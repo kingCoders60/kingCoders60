@@ -20,3 +20,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=kingCoders60&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ![snake gif](https://github.com/kingCoders60/kingCoders60/blob/output/github-snake-dark.svg)
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,30&height=120&section=footer" />
+</div>
